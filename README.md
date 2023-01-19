@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Home**
 
-- 👯 I’m looking to collaborate on Discord **Discord**
+- 👯 I’m looking to collaborate on **Discord**
 
 - 🌱 I'm Now Learning About **Laravel**
 
