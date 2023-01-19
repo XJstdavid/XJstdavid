@@ -22,5 +22,6 @@
 
 <h3 align="left">Trakter & Support Me</h3>
 <a href="https://trakteer.id/justdavid" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-2.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xjstdavid&" alt="xjstdavid" /></p>
